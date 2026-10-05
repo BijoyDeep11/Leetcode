@@ -85,4 +85,4 @@ Pivot Index = 3
 - The current element must be excluded from both sides because the pivot element itself belongs to neither the left nor the right portion.
 - Updating `leftSum` only after checking the current index is important because the current element should not be included in its own left sum.
 - If no index satisfies the condition, returning `-1` indicates that no pivot index exists.
-- This problem strengthened my understanding of how **prefix sums and total sums can work together to solve array problems in `O(n)` time and `O(1)` extra space**.
+- This problem strengthened my understanding of how **prefix sums and total sums can work together to solve array problems in `O(n)` time and `O(1)` extra space**.i
